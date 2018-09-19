@@ -6,4 +6,4 @@ This is an implementation of paper Anomalous Trajectory Detection using Recurren
 ### Requirements
 
 - Python 3.6
-- Tensorflow 1.4
+- Tensorflow 1.6
