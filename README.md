@@ -1,6 +1,6 @@
 # ATD-RNN
 
-This is an implementation of paper \b Anomalous Trajectory Detection using Recurrent Neural Network.
+This is an implementation of paper ** Anomalous Trajectory Detection using Recurrent Neural Network **.
 
 
 ### Requirements
